@@ -1,0 +1,7 @@
+node_modules/
+public/
+.config/
+.vscode/
+/dist/
+/example/
+/standalone/
